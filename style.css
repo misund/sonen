@@ -1,0 +1,18 @@
+/*
+Theme Name: Sonen
+Theme URI: http://mienko.no
+Author: Just Thomas Misund	
+Author URI: http://wordpress.org/
+Description: Fett tema
+Version: 0.1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: 
+Text Domain: sonen
+*/
+
+header {background-color:green;
+	background: red url(''), url('') center center;
+
+overflow:hidden;
+ }
