@@ -5,7 +5,10 @@ Rudimentary WordPress theme for introductory purposes.
 
 Copied links from <a href="http://codepen.io/misund/pen/IxLmj?editors=100">Codepen</a>
 ====
-
+<h3>Foredraget</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=HOoe98hI3Rw">Selve foredraget på YouTube</a></li>
+</ul>
 <h3>Lenker fra foredraget</h3>
 <ul>
   <li>WordPress' dokumentasjon: <a href="http://codex.wordpress.org/">Codex</a></li>
