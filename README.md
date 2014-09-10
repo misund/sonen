@@ -20,4 +20,5 @@ Copied links from <a href="http://codepen.io/misund/pen/IxLmj?editors=100">Codep
   <li>Uansett hva du koder: ALLTID bruk versjonskontroll. <a href="http://git-scm.com/">Git</a> er bra.</li>
   <li>Bruk sass/less (helst <a href="http://sass-lang.com/">sass</a>) for å skrive CSS mer komfortabelt</li>
   <li>Bruk <a href="http://gruntjs.com/">grunt</a> eller <a href="http://gulpjs.com/">gulp</a> for å automatisere byggeprosessen fra menneskelesbar til maskinoptimalisert kode</li>
+  <li>Universitetet er dyktige på teori. Lær ting i praksis hos <a href="http://edb.neuf.no/">EDB-gruppa</a> i <a href="http://kak.studentersamfundet.no/">Kommunikasjonsavdelingen</a> ved <a href="http://studentersamfundet.no/">Det Norske Studentersamfund</a>.</li>
 </ul>
